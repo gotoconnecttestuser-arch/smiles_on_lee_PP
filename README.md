@@ -49,7 +49,18 @@ You may also contact us directly at:
 124leedentistry@gmail.com
 
 Information Sharing
-We do not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes.
+We do not transfer, share, disclose, or provide consumer data, including mobile information, to any external organizations.
+
+Consumer data, including mobile information, is not sold, shared, disclosed, or transferred to outside parties for marketing, promotional, or any other independent use.
+
+We may disclose information only where legally required.
+
+If service providers are used to support our operations, they may act solely as processors on our behalf and only under binding confidentiality obligations. They may not use, retain, or access consumer data, including mobile information, for any purpose other than performing services for us in that limited role.
+
+No transfer of consumer data to external organizations.
+No sharing or disclosure of mobile information to outside parties for their own purposes.
+Access by service providers, if any, is strictly limited to processor functions and subject to binding confidentiality obligations.
+Disclosure is permitted only where legally required.
 
 We may share information with service providers that help us operate our messaging services, only as necessary to provide those services and in accordance with applicable privacy laws.
 
